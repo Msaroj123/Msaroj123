@@ -9,7 +9,7 @@
 
 - 👯 I’m aspiring to be a **Full stack developer**
 
-- 🤝 I’m trying to explore **UI/UX as well**
+- 🤝 I’m trying to explore **DBMS & SQL as well**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Msaroj123](https://github.com/Msaroj123)
 

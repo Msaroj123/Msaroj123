@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently learning  **React**
+- 🔭 I’m currently learning  **React.js**
 
 - 👯 I’m aspiring to be a **Full stack developer**
 
-- 🤝 I’m trying to explore **Database & Dashboarding as well**
+- 🤝 I’m trying to explore **Database & Dashboarding , AWS  as well**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Msaroj123](https://github.com/Msaroj123)
 
 - 📫 How to reach me **iamsarojkumarmanna@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

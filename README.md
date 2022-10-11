@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently learning  **React.js**
+- 🔭 I’m currently learning  **React.js **
 
-- 👯 I’m aspiring to be a **Full stack developer**
+- 👯 I’m aspiring to be a ** Full stack Dev**
 
-- 🤝 I’m trying to explore **Database & Dashboarding , AWS  as well**
+- 🤝 I’m trying to explore **Database & Dashboarding , AI & Fuzzy Logic Control as well**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Msaroj123](https://github.com/Msaroj123)
+- 👨‍💻 All of my projects are available at my github profile
 
 - 📫 How to reach me **iamsarojkumarmanna@gmail.com**
 

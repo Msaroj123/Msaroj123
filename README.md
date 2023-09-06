@@ -13,17 +13,6 @@
 
 - 📫 How to reach me **iamsarojkumarmanna@gmail.com**
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaroj123&show_icons=true&locale=en&layout=compact" alt="msaroj123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaroj123&show_icons=true&locale=en" alt="msaroj123" /></p>
